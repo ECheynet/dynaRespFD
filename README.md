@@ -12,9 +12,9 @@ The present submission contains
 
 •	dynaRespFD3.m : Function that calculates the displacement response spectrum of the bridge
 
-•	2 example files Example_1.m and Example_2.m 
+•	Two example files Example_1.m and Example_2.m 
 
-•	2 .mat files bridgeModalProperties.mat and DynamicDispl.mat that are used in the  2 examples. 
+•	Two .mat files bridgeModalProperties.mat and DynamicDispl.mat that are used in the  2 examples. 
 
 Any question, comment or suggestion to improve the submission is welcomed.
 
