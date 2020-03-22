@@ -19,8 +19,13 @@ Any question, comment or suggestion to improve the submission is welcomed.
 References
 
  [1] Davenport, A.G., The response of slender line-like structures to a gusty wind, Proceedings of the Institution of Civil Engineers, Vol. 23, 1962, pp. 389 – 408. 
+ 
 [2] Scanlan, R. H. (1978). The action of flexible bridges under wind, II: Buffeting theory. Journal of Sound and vibration, 60(2), 201-211.
+
 [3] http://www.mathworks.com/matlabcentral/fileexchange/51815-suspension-bridge--eigen-frequency-and-mode-shapes-benchmark-solutions 
+
 [4] Thorbek, L. T., & Hansen, S. O. (1998). Coupled buffeting response of suspension bridges. Journal of Wind Engineering and Industrial Aerodynamics, 74, 839-847.
+
 [5] Hjorth-Hansen, E. (1993). Fluctuating drag, lift and overturning moment for a line-like structure predicted (primarily) from static, mean loads. Wind Engineering, Lecture note no, 2.
+
 [6] Cheynet, E., Jakobsen, J. B., & Snæbjörnsson, J. (2016). Buffeting response of a suspension bridge in complex terrain. Engineering Structures, 128, 474-487.   http://dx.doi.org/10.1016/j.engstruct.2016.09.060
