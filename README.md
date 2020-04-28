@@ -2,6 +2,8 @@
 The dynamic response of a suspension bridge to wind turbulence is computed in the frequency domain.
 
 [![View Buffeting response of a suspension bridge (frequency domain) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/51970-buffeting-response-of-a-suspension-bridge-frequency-domain)
+[![DOI](https://zenodo.org/badge/249144990.svg)](https://zenodo.org/badge/latestdoi/249144990)
+
 
 The estimation of the displacement response of a large civil engineering structure to wind turbulence is based on the buffeting theory [1, 2, 5]. Ref. [5] contains the theoretical background I have used for the function dynaRespFD3. In the present script, the structure in question is a suspension bridge modelled using the theory of continuous beams [3]. The buffeting response is computed in the frequency domain using the quasi-steady theory.  Modal coupling was assumed negligible, which is generally well verified for most of the wind velocities recorded in full scale [4]. The present script is a  simplified version of the one used in [6]. 
 
