@@ -50,8 +50,8 @@ p.CaseSensitive = false;
 p.addOptional('cohType','empirical');
 p.addOptional('pos',[]);
 p.addOptional('AA','none'); % Aero Admittance (AA) lateral
-p.addOptional('quadCoh_Cu',[]); % Aero Admittance (AA) lateral
-p.addOptional('quadCoh_Cw',[]); % Aero Admittance (AA) lateral
+p.addOptional('quadCoh_Cu',[]); % optional coefficients used for the quad-coherence
+p.addOptional('quadCoh_Cw',[]); % optional coefficients used for the quad-coherence
 p.parse(varargin{:});
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 cohType = p.Results.cohType ;
