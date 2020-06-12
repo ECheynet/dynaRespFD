@@ -12,13 +12,13 @@ The present script computes the lateral, vertical and torsional displacement res
 
 The present submission contains 
 
-•	dynaRespFD.m : Function that calculates the displacement response spectrum of the bridge
+• dynaRespFD.m : Function that calculates the displacement response spectrum of the bridge
 
-•	A function VonKarmanSpectrum.m to generate he power spectral density of the velocity flcutuations based on von Karman model.
+• A function VonKarmanSpectrum.m to generate the power spectral density of the velocity fluctuations based on von Karman model.
 
-•	Two example files Example_1.m and Example_2.m 
+• Two example files Example_1.m and Example_2.m
 
-•	Two .mat files bridgeModalProperties.mat and DynamicDispl.mat that are used in the  2 examples. 
+• Two .mat files bridgeModalProperties.mat and DynamicDispl.mat that are used in the 2 examples.
 
 Any question, comment or suggestion to improve the submission is welcomed.
 
