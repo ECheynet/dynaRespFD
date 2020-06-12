@@ -12,7 +12,7 @@ The present script computes the lateral, vertical and torsional displacement res
 
 The present submission contains 
 
-•	dynaRespFD3.m : Function that calculates the displacement response spectrum of the bridge
+•	dynaRespFD.m : Function that calculates the displacement response spectrum of the bridge
 
 •	Two example files Example_1.m and Example_2.m 
 
