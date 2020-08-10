@@ -1,4 +1,4 @@
-# dynaRespFD
+# Buffeting response of a suspension bridge (frequency domain)
 The dynamic response of a suspension bridge to wind turbulence is computed in the frequency domain.
 
 [![View Buffeting response of a suspension bridge (frequency domain) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/51970-buffeting-response-of-a-suspension-bridge-frequency-domain)
